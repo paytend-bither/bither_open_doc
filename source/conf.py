@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Bither'
-copyright = u'2016, WenHao'
+project = u'Bither Open Platform'
+copyright = u'2016, Bither'
 author = u'WenHao'
 
 # The version info for the project you're documenting, acts as replacement for
