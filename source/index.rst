@@ -11,6 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   introduction.rst
+   receive.rst
+   send.rst
+
 
 
 Indices and tables
