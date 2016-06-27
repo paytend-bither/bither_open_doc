@@ -6,8 +6,6 @@
 Welcome to Bither's documentation!
 ==================================
 
-:ref:`Keyword Index <genindex>`, :ref:`Search Page <search>`
-
 Contents:
 
 .. toctree::
